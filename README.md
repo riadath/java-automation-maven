@@ -1,4 +1,4 @@
-# Java Testing Automation with Python
+# Java Testing Automation with Python and Maven
 
 ## Overview
 This repository contains a Python script (`script.py`) to automate the testing process for Java files using Maven. The automation ensures all Java files are tested individually by renaming their public class and references to `Main`, compiling, and running them with a single test file (`MainTest.java`). This setup is designed for projects where multiple Java files are tested independently against a single unit test file.
